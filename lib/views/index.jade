@@ -1,0 +1,15 @@
+extend base
+
+block layout
+  .container
+    .row
+      h1 Hello
+      a.btn.btn-default(href='/logout') Logout
+      table.table.table-striped
+        for event in events
+          tr
+            td=event.title
+            td=event.intraLocationCode
+            td=event.intraModuleCode
+            td=moment(event.start).format('lll')
+            td=moment(event.end).format('lll')
