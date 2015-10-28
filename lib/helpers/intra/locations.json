@@ -1,0 +1,9230 @@
+{
+  "CN": {
+    "title": "China"
+  },
+  "CN/CHQ": {
+    "title": "ChongQuing"
+  },
+  "CN/DAL": {
+    "title": "Daliang"
+  },
+  "ES": {
+    "title": "Spain"
+  },
+  "FR": {
+    "title": "France"
+  },
+  "FR/BDX": {
+    "title": "Bordeaux"
+  },
+  "FR/BDX/camille-godard-disabled": {
+    "title": "Camille Godard (disabled)",
+    "disabled": true
+  },
+  "FR/BDX/camille-godard-disabled/ISEG-Amphiteatre": {
+    "title": "ISEG Amphiteatre ",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard": {
+    "title": "Godard",
+    "floor": 42
+  },
+  "FR/BDX/Godard/Godard-0-3": {
+    "title": "Godard 0.3",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-0-5": {
+    "title": "Godard 0.5",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-1.2": {
+    "title": "Godard 1.2",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-2.3": {
+    "title": "Godard 2.3",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-2.4": {
+    "title": "Godard 2.4",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-2.7": {
+    "title": "Godard 2.7",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-Amphitheatre-disabled": {
+    "title": "Godard Amphitheatre (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/Godard/Godard-disabled": {
+    "title": "Godard (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 200,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public": {
+    "title": "Jardin Public"
+  },
+  "FR/BDX/jardin-public/1.2": {
+    "title": "Salle 1.2",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/1.3": {
+    "title": "Salle 1.3",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/1.4": {
+    "title": "Salle 1.4",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/1.7": {
+    "title": "Salle 1.7",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/2.3-disabled": {
+    "title": "_old_2.3 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 30,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/2.5-disabled": {
+    "title": "_old_2.5 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 15,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Amphitheatre": {
+    "title": "Amphitheatre",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 200,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Annexe-de-Cursan": {
+    "title": "Annexe de Cursan",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Bureau-disabled": {
+    "title": "Bureau ADM (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/HUB": {
+    "title": "HUB",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 42,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Mastermind": {
+    "title": "Mastermind",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 12,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Openspace": {
+    "title": "Openspace",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Openspace-&-Salle-Sci-Fi-&-Terre-du-Milieu": {
+    "title": "Openspace & Salle Sci-Fi & Terre du Milieu",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-2.1": {
+    "title": "Salle Sci-Fi",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 66,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 66,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-2.2": {
+    "title": "Terre du Milieu",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-2.3-disabled": {
+    "title": "Krakatoa (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 32,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-2.4": {
+    "title": "Base de Kourou",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 52,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 52,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-2.5": {
+    "title": "Salle 2.5",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-2.6": {
+    "title": "Salle 2.6",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 32,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-3E-disabled": {
+    "title": "Salle 3E (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 12,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-3F-disabled": {
+    "title": "Salle 3F (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 12,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-3I-disabled": {
+    "title": "Salle 3I (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-3P-disabled": {
+    "title": "Salle 3P (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-de-reunion": {
+    "title": "Salle de réunion ADM",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-de-reunion-ETUDIANT-disabled": {
+    "title": "Salle de réunion ETUDIANT (disabled)",
+    "floor": 2,
+    "disabled": true
+  },
+  "FR/BDX/jardin-public/Salle-Guillaume-Lardoux": {
+    "title": "Salle Guillaume Lardoux",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 32,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salle-Steve-Jobs-disabled": {
+    "title": "Salle Steve Jobs (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Salles-2.1-2.2": {
+    "title": "Terre du Milieu & Salle Sci-Fi",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 108,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Susie-disabled": {
+    "title": "Susie (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/BDX/jardin-public/Terre-du-Millieu-&-Salle-Sci-Fi-&-Krakatoa-disabled": {
+    "title": "Terre du Millieu & Salle Sci-Fi & Krakatoa (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 140,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/BDX/main-disabled": {
+    "title": "Batiment principal (disabled)",
+    "disabled": true
+  },
+  "FR/BDX/main-disabled/Cafete-disabled": {
+    "title": "Cafete (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/BDX/main-disabled/Susie-disabled": {
+    "title": "Susie (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/BDX/St-Louis": {
+    "title": "St Louis",
+    "floor": 0
+  },
+  "FR/BDX/St-Louis/Salle-1": {
+    "title": "Salle 1",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LIL": {
+    "title": "Lille"
+  },
+  "FR/LIL/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0
+  },
+  "FR/LIL/Exterieur/exterieur": {
+    "title": "extérieur",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1000,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LIL/main-disabled": {
+    "title": "Batiment principal (disabled)",
+    "disabled": true
+  },
+  "FR/LIL/main-disabled/Exterieur": {
+    "title": "Exterieur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "cours_dans_un_bar"
+      },
+      {
+        "seats": 1000,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LIL/Rihour": {
+    "title": "Rihour",
+    "floor": 42
+  },
+  "FR/LIL/Rihour/Babbage": {
+    "title": "Babbage",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Babbage-Pascal-Turing": {
+    "title": "Babbage-Pascal-Turing",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 130,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Bureau-Pedago-disabled": {
+    "title": "Bureau Pédago (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 1,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Byron": {
+    "title": "Byron",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 30,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Cray": {
+    "title": "Cray",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 55,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 55,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 25,
+        "type": "salle_rack"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Jobs": {
+    "title": "Jobs",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Knuth": {
+    "title": "Knuth",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 150,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Knuth-Cray": {
+    "title": "Knuth / Cray",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Knuth-Turing-Pascal": {
+    "title": "Knuth-Turing-Pascal",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Pascal": {
+    "title": "Pascal",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 28,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 28,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Pascal-Turing": {
+    "title": "Pascal-Turing",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 90,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Paterson": {
+    "title": "Paterson",
+    "floor": 42
+  },
+  "FR/LIL/Rihour/Ritchie": {
+    "title": "Ritchie",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 20,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Ritchie-disabled": {
+    "title": "Ritchie (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Stallman": {
+    "title": "Stallman",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 20,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Tesla": {
+    "title": "Tesla",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "hub"
+      },
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Thompson": {
+    "title": "Thompson",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Thompson-disabled": {
+    "title": "Thompson (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/tout-le-batiment": {
+    "title": "tout le bâtiment",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/LIL/Rihour/Turing": {
+    "title": "Turing",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/LYN": {
+    "title": "Lyon"
+  },
+  "FR/LYN/85-disabled": {
+    "title": "85 (disabled)",
+    "disabled": true
+  },
+  "FR/LYN/85-disabled/Susie-dimension-disabled": {
+    "title": "Susie dimension (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/A-B-C-D-E-disabled": {
+    "title": "A - B - C - D - E (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 188,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/bayard": {
+    "title": "Bayard"
+  },
+  "FR/LYN/bayard/005-006-007-disabled": {
+    "title": "005,006,007 (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 144,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/bayard/005-Marvin": {
+    "title": "005 - Marvin",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 46,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 46,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/bayard/006-BabelFish-disabled": {
+    "title": "006 - BabelFish (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/bayard/007-Eddie-disabled": {
+    "title": "007 - Eddie (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/bayard/Accueil-Adminsitratif": {
+    "title": "Accueil Adminsitratif",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/bayard/Direction": {
+    "title": "Direction",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/bayard/HuB": {
+    "title": "HuB",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 20,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/bayard/JD": {
+    "title": "JD",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/bayard/JPO": {
+    "title": "JPO",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/bayard/Salle-de-Reunion-1": {
+    "title": "Salle de Reunion 1",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/bayard/Salle-de-Reunion-2": {
+    "title": "Salle de Reunion 2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/bayard/Salle-de-Reunion-3": {
+    "title": "Salle de Réunion 3",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/Gemellyon": {
+    "title": "Gemellyon",
+    "floor": 1
+  },
+  "FR/LYN/Gemellyon-disabled": {
+    "title": "Gemellyon (disabled)",
+    "floor": 1,
+    "disabled": true
+  },
+  "FR/LYN/Gemellyon-disabled/": {
+    "title": "ζ",
+    "floor": 1
+  },
+  "FR/LYN/Gemellyon/Davros-disabled": {
+    "title": "ζ - Davros (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Gemellyon/Donna-Noble-disabled": {
+    "title": "η - Donna Noble (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 7,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/Gemellyon/GemD-Dent": {
+    "title": "GemD - Dent",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Gemellyon/GemG-Prefect": {
+    "title": "GemG - Prefect",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Gemellyon/Sarah-Jane-disabled": {
+    "title": "ι - Sarah Jane (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/Gemellyon/Weeping-Angel-disabled": {
+    "title": "κ - Weeping Angel (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Iseg": {
+    "title": "Iseg",
+    "floor": 1
+  },
+  "FR/LYN/Iseg/101-102-103": {
+    "title": "101,102,103",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 250,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Iseg/203": {
+    "title": "203",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Iseg/Amphi": {
+    "title": "Amphi",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 220,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/main": {
+    "title": "Batiment principal"
+  },
+  "FR/LYN/main/Forum": {
+    "title": "Forum",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 2,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/main/Salon": {
+    "title": "Salon",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 6,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic": {
+    "title": "Panoramic",
+    "floor": 42
+  },
+  "FR/LYN/panoramic-disabled": {
+    "title": "Panoramic (disabled)",
+    "disabled": true
+  },
+  "FR/LYN/panoramic-disabled/": {
+    "title": "α - β - Γ - Δ - ε",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 244,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/001-002-003": {
+    "title": "001 - 002 - 003",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 168,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/001-003": {
+    "title": "001 - 003",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 108,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 108,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/001-003-004": {
+    "title": "001-003-004",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/002-003": {
+    "title": "002 - 003",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 112,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/002-003-004": {
+    "title": "002 - 003 - 004",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/BadWolf": {
+    "title": "Δ - BadWolf",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/Cybermen": {
+    "title": "Γ - Cybermen",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/Dalek": {
+    "title": "α - Dalek",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 188,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 188,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/Plateforme-Pedago": {
+    "title": "Plateforme Pedago",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 6,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/Rose-Tyler": {
+    "title": "β - Rose Tyler",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/panoramic-disabled/The-Silence": {
+    "title": "ε - The Silence",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "bureau"
+      },
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/001-002-003": {
+    "title": "001-002-003",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 172,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/001-002-003-004": {
+    "title": "001-002-003-004",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 220,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 220,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/001-002-003-004-004": {
+    "title": "001-002-003-004-004⅔",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 240,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 240,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/001-004": {
+    "title": "001-004",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 108,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/001-Earth": {
+    "title": "001 - Earth",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/002-003": {
+    "title": "002-003",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 112,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/002-003-004": {
+    "title": "002-003-004",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/002-Betelgeuse-V": {
+    "title": "002 - Bételgeuse V",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 48,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/003-04": {
+    "title": "003 - 04",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 110,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/003-Frogstar-B": {
+    "title": "003 - Frogstar B",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 64,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 64,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/004-Krikkit": {
+    "title": "004 - Krikkit",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 48,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/004-Magrathea": {
+    "title": "004⅔ - Magrathea",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/LYN/Panoramic/Plateforme-Pedagogique": {
+    "title": "Plateforme Pédagogique",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/Salon-Forum-disabled": {
+    "title": "Salon/Forum (disabled)",
+    "floor": 0,
+    "disabled": true
+  },
+  "FR/LYN/Salon-Forum-disabled/Salon-Forum": {
+    "title": "Salon/Forum",
+    "floor": 0
+  },
+  "FR/LYN/Salon-Forum-disabled/Susie-Dimension": {
+    "title": "Susie Dimension",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel": {
+    "title": "Virtuel",
+    "floor": 0
+  },
+  "FR/LYN/Virtuel/Conf-call": {
+    "title": "Conf-call",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 42,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/E-learning": {
+    "title": "E-learning",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 1,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/Exterieur": {
+    "title": "Exterieur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 200,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/Forum": {
+    "title": "Forum",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/JD": {
+    "title": "JD",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/JPO": {
+    "title": "JPO",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/Salon": {
+    "title": "Salon",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/LYN/Virtuel/Susie": {
+    "title": "Susie",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/MAR": {
+    "title": "Marseille"
+  },
+  "FR/MAR/BDE": {
+    "title": "BDE",
+    "floor": 0
+  },
+  "FR/MAR/BDE/BDE-Bureau": {
+    "title": "BDE - Bureau",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MAR/BDE/BDE-Woodstock": {
+    "title": "BDE - Woodstock",
+    "floor": 42
+  },
+  "FR/MAR/main": {
+    "title": "Batiment principal"
+  },
+  "FR/MAR/main/BAT1-Blue-Screen": {
+    "title": "BAT1 - Blue Screen",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT1-Cousteau": {
+    "title": "BAT1 - Cousteau",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 60,
+        "type": "salle_rack"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT1-Guiness": {
+    "title": "BAT1 - Guiness",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT1-Kernel-Panic": {
+    "title": "BAT1 - Kernel Panic",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT1-SciFi": {
+    "title": "BAT1 - SciFi",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 80,
+        "type": "salle_rack"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT2-Bureau-ADM": {
+    "title": "BAT2 - Bureau ADM",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 0,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 6,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT2-HUB": {
+    "title": "BAT2 - HUB",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT2-Retro": {
+    "title": "BAT2 - Retro",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 70,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 70,
+        "type": "salle_rack"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT3-Bureau-BDE-disabled": {
+    "title": "BAT3 - Bureau BDE (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MAR/main/BAT3-Woodstock-disabled": {
+    "title": "BAT3 - Woodstock (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 44,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MAR/main/Decouverte": {
+    "title": "Découverte",
+    "floor": 42
+  },
+  "FR/MPL": {
+    "title": "Montpellier",
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume": {
+    "title": "Batiment jeu de paume",
+    "floor": 42
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Colonnes-Conf": {
+    "title": "Colonnes Conf",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Colonnes-Training": {
+    "title": "Colonnes Training",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Colonnes-Workshop": {
+    "title": "Colonnes Workshop",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Mezza-Training": {
+    "title": "Mezza Training",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Mezza-Workshop": {
+    "title": "Mezza Workshop",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Villa-Training": {
+    "title": "Villa Training",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 28,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-jeu-de-paume/Villa-Workshop": {
+    "title": "Villa Workshop",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal": {
+    "title": "Batiment principal",
+    "floor": 0
+  },
+  "FR/MPL/Batiment-principal/Accueil": {
+    "title": "Accueil",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Brique": {
+    "title": "Brique",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Bureau-DDR": {
+    "title": "Bureau DDR",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 1,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Bureau-DPR": {
+    "title": "Bureau DPR",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 1,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Cap-Omega-disabled": {
+    "title": "Cap Omega (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Colonnes": {
+    "title": "Colonnes",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Crypte": {
+    "title": "Crypte",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Grande-Caverne": {
+    "title": "Grande Caverne",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Hub": {
+    "title": "Hub",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 15,
+        "type": "cours_dans_un_bar"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Mezzanine": {
+    "title": "Mezzanine",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/PMO": {
+    "title": "PMO",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Salle-Reunion": {
+    "title": "Salle Reunion",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Terrasse": {
+    "title": "Terrasse",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/Batiment-principal/Villa": {
+    "title": "Villa",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/MPL/jeu-de-paume-disabled": {
+    "title": "jeu de paume (disabled)",
+    "disabled": true
+  },
+  "FR/MPL/jeu-de-paume-disabled/Cap-Omega-disabled": {
+    "title": "Cap Omega (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/MPL/jeu-de-paume-disabled/Crypte": {
+    "title": "Crypte",
+    "floor": 42
+  },
+  "FR/MPL/secondary-disabled": {
+    "title": "Batiment secondaire (disabled)",
+    "disabled": true
+  },
+  "FR/MPL/secondary-disabled/Villa-disabled": {
+    "title": "Villa (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN": {
+    "title": "Nantes"
+  },
+  "FR/NAN/Alger": {
+    "title": "Alger",
+    "floor": 0
+  },
+  "FR/NAN/Alger/201-disabled": {
+    "title": "201 (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 38,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Accueil": {
+    "title": "Accueil",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/AER": {
+    "title": "AER",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Barney-Stinson": {
+    "title": "Barney Stinson",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Box-1": {
+    "title": "Box 1",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 6,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Box-2": {
+    "title": "Box 2",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 6,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Cafeteria": {
+    "title": "Cafétéria",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Developpement": {
+    "title": "Développement",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Foyer": {
+    "title": "Foyer",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 20,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Gotham": {
+    "title": "Gotham",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Hall": {
+    "title": "Hall",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Hub-Innovation": {
+    "title": "Hub Innovation",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "hub"
+      }
+    ]
+  },
+  "FR/NAN/Alger/La-Comte": {
+    "title": "La Comté",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 68,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Marty-McFly": {
+    "title": "Marty McFly",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Mordor": {
+    "title": "Mordor",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Pedagogie": {
+    "title": "Pédagogie",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Poudlard": {
+    "title": "Poudlard",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 18,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Salle-Reunion-disabled": {
+    "title": "Salle Réunion (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Tatooine": {
+    "title": "Tatooine",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Torvalds": {
+    "title": "Torvalds",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Vogons": {
+    "title": "Vogons",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Alger/Westeros": {
+    "title": "Westeros",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Brea": {
+    "title": "Bréa",
+    "floor": 1
+  },
+  "FR/NAN/Brea/Bureau-B1": {
+    "title": "Bureau B1",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-104": {
+    "title": "Salle 104",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-107": {
+    "title": "Salle 107",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-111": {
+    "title": "Salle 111",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-111-A": {
+    "title": "Salle 111-A",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-111-B": {
+    "title": "Salle 111-B",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-112": {
+    "title": "Salle 112",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-112-A": {
+    "title": "Salle 112-A",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-112-B": {
+    "title": "Salle 112-B",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-114": {
+    "title": "Salle 114",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Brea/Salle-115": {
+    "title": "Salle 115",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NAN/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0
+  },
+  "FR/NAN/Exterieur/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 100,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NAN/Exterieur/La-Cantine-2-0": {
+    "title": "La Cantine 2.0",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle-de-soutenance"
+      }
+    ]
+  },
+  "FR/NAN/Flandres": {
+    "title": "Flandres",
+    "floor": 1
+  },
+  "FR/NAN/Flandres/Amphi": {
+    "title": "Amphi",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 130,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 130,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/bureau-adm": {
+    "title": "bureau adm",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Bureau-du-fond-disabled": {
+    "title": "Bureau du fond (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 15,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 15,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Bureau-PJ-disabled": {
+    "title": "Bureau PJ (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 5,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Cafeteria": {
+    "title": "Cafétéria ",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Chambre-Froide-disabled": {
+    "title": "Chambre Froide (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 6,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 6,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/HUB": {
+    "title": "HUB",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 30,
+        "type": "hub"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Lab-Astek-disabled": {
+    "title": "Lab Astek (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-11": {
+    "title": "Salle 11",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 23,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 23,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 23,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 23,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-11-12": {
+    "title": "Salle 11-12",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 35,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 35,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 35,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-11-12-13": {
+    "title": "Salle 11-12-13",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 74,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 74,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 74,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-12": {
+    "title": "Salle 12",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 15,
+        "type": "bureau"
+      },
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 15,
+        "type": "salle_rack"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-12-13": {
+    "title": "Salle 12-13",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 46,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 46,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-13": {
+    "title": "Salle 13",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-14": {
+    "title": "Salle 14",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 22,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 22,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-15": {
+    "title": "Salle 15",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 10,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-22": {
+    "title": "Salle 22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 15,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-31": {
+    "title": "Salle 31",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Salle-33": {
+    "title": "Salle 33",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 4,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 4,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 4,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 2,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Secretariat-accueil": {
+    "title": "Secrétariat - accueil",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 3,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Flandres/Tout-le-batiment-disabled": {
+    "title": "Tout le batiment (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 300,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/main-disabled": {
+    "title": "Batiment principal (disabled)",
+    "disabled": true
+  },
+  "FR/NAN/main-disabled/Exterieur-disabled": {
+    "title": "Exterieur (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NAN/Rue-de-Brea-disabled": {
+    "title": "Rue de Brea (disabled)",
+    "floor": 0,
+    "disabled": true
+  },
+  "FR/NAN/Salle-104-ISEG-disabled": {
+    "title": "Salle 104 (ISEG) (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/B1": {
+    "title": "B1",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-111": {
+    "title": "Salle 111",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 50,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 70,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-111-A": {
+    "title": "Salle 111-A",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-111-B": {
+    "title": "Salle 111-B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-112": {
+    "title": "Salle 112",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 75,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 75,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 75,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-112-A": {
+    "title": "Salle 112-A",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 35,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 35,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-112-B": {
+    "title": "Salle 112-B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 35,
+        "type": "salle_rack"
+      },
+      {
+        "seats": 35,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-113-ISEG": {
+    "title": "Salle 113 (ISEG)",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 120,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NAN/Salle-104-ISEG-disabled/Salle-115-ISEG": {
+    "title": "Salle 115 (ISEG)",
+    "floor": 1
+  },
+  "FR/NCE": {
+    "title": "Nice"
+  },
+  "FR/NCE/Buffa-disabled": {
+    "title": "Buffa (disabled)",
+    "floor": 1,
+    "disabled": true
+  },
+  "FR/NCE/Buffa-disabled/Dota2-disabled": {
+    "title": "Dota2 (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/DPR-disabled": {
+    "title": "DPR (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/E-Learning-disabled": {
+    "title": "E-Learning (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 1,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/Etudiante-disabled": {
+    "title": "Etudiante (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/Google-disabled": {
+    "title": "Google (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/Lab-AER-disabled": {
+    "title": "Lab AER (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/mimolette-disabled": {
+    "title": "WorldWide (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Buffa-disabled/Shakespeare-disabled": {
+    "title": "Shakespeare  (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/E-Learning": {
+    "title": "E-Learning",
+    "floor": 0
+  },
+  "FR/NCE/E-Learning/E-learning-Intra-disabled": {
+    "title": "E-learning Intra (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 1,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/E-Learning/E-Learning-Intranet": {
+    "title": "E-Learning Intranet",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NCE/E-Learning/Lync": {
+    "title": "Lync",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NCE/E-Learning/Lync-disabled": {
+    "title": "Lync (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH": {
+    "title": "EPITECH",
+    "floor": 0
+  },
+  "FR/NCE/EPITECH/Accueil": {
+    "title": "Accueil",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Accueil-disabled": {
+    "title": "Accueil (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/BDE": {
+    "title": "BDE",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Bureau-DDR": {
+    "title": "Bureau DDR",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Bureau-DDR-disabled": {
+    "title": "Bureau DDR (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Bureau-Pedago": {
+    "title": "Bureau Pédago",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle-bureau"
+      },
+      {
+        "seats": 2,
+        "type": "salle-de-soutenance"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Bureau-Pedago-disabled": {
+    "title": "Bureau Pédago (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Dennis-Ritchie": {
+    "title": "Dennis Ritchie",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 22,
+        "type": "salle-de-cours-td"
+      },
+      {
+        "seats": 11,
+        "type": "salle-d-examen"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Dennis-Ritchie-disabled": {
+    "title": "Dennis Ritchie (disabled)",
+    "floor": 3,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 11,
+        "type": "bureau"
+      },
+      {
+        "seats": 22,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Espace-Brainstoming": {
+    "title": "Espace Brainstoming",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-de-reunion"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Google": {
+    "title": "Google",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle-d-examen"
+      },
+      {
+        "seats": 70,
+        "type": "salle-de-cours-td"
+      },
+      {
+        "seats": 70,
+        "type": "salle"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Google-disabled": {
+    "title": "Google (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Googlez-disabled": {
+    "title": "Googlez (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle"
+      },
+      {
+        "seats": 25,
+        "type": "salle-d-examen"
+      },
+      {
+        "seats": 10,
+        "type": "salle-de-soutenance"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/HUB": {
+    "title": "HUB",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle-de-cours-td"
+      },
+      {
+        "seats": 12,
+        "type": "salle-de-reunion"
+      },
+      {
+        "seats": 12,
+        "type": "salle"
+      },
+      {
+        "seats": 12,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Hub-disabled": {
+    "title": "Hub (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Isabelle-Bardeche": {
+    "title": "Isabelle Bardèche",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-de-reunion"
+      },
+      {
+        "seats": 5,
+        "type": "salle-de-soutenance"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Isabelle-Bardeche-disabled": {
+    "title": "Isabelle Bardèche (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Lab-AER-disabled": {
+    "title": "Lab AER (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Malloc": {
+    "title": "Malloc",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle-de-reunion"
+      },
+      {
+        "seats": 6,
+        "type": "salle-de-soutenance"
+      },
+      {
+        "seats": 5,
+        "type": "susie"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Malloc-disabled": {
+    "title": "Malloc (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Michel-Ange": {
+    "title": "Michel-Ange",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle-de-cours-td"
+      },
+      {
+        "seats": 16,
+        "type": "salle"
+      },
+      {
+        "seats": 5,
+        "type": "susie"
+      },
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Michel-Ange-disabled": {
+    "title": "Michel-Ange (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Nexus": {
+    "title": "Nexus",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 84,
+        "type": "espace-etudiant"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Nexus-disabled": {
+    "title": "Nexus (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 84,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 84,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Nexusa-disabled": {
+    "title": "Nexusa (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 84,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Pole-Pedago": {
+    "title": "Pôle Pédago",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 6,
+        "type": "salle-bureau"
+      },
+      {
+        "seats": 6,
+        "type": "salle-de-soutenance"
+      },
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Pole-Pedago-disabled": {
+    "title": "Pôle Pédago (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Puffy-disabled": {
+    "title": "Puffy (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/RAM": {
+    "title": "RAM",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle"
+      },
+      {
+        "seats": 25,
+        "type": "salle-d-examen"
+      },
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/RAM-disabled": {
+    "title": "RAM (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Shakespeare": {
+    "title": "Shakespeare",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 14,
+        "type": "salle-de-cours-td"
+      },
+      {
+        "seats": 14,
+        "type": "salle-d-examen"
+      },
+      {
+        "seats": 2,
+        "type": "salle-de-soutenance"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Shakespeare-disabled": {
+    "title": "Shakespeare (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 14,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Tux": {
+    "title": "Tux",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle-de-reunion"
+      },
+      {
+        "seats": 2,
+        "type": "salle-de-soutenance"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Tux-disabled": {
+    "title": "Tux (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 8,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Tuxa-disabled": {
+    "title": "Tuxa (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Tweet": {
+    "title": "Tweet",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle-d-examen"
+      },
+      {
+        "seats": 42,
+        "type": "salle-de-cours-td"
+      },
+      {
+        "seats": 8,
+        "type": "salle-de-soutenance"
+      },
+      {
+        "seats": 32,
+        "type": "salle"
+      },
+      {
+        "seats": 32,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/EPITECH/Tweet-disabled": {
+    "title": "Tweet (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0
+  },
+  "FR/NCE/Exterieur/Cinema": {
+    "title": "Cinéma",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Cinema-disabled": {
+    "title": "Cinema (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 442,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Musee": {
+    "title": "Musée",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Other-disabled": {
+    "title": "Other (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 442,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Parc-Phoenix": {
+    "title": "Parc Phoenix",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Plage": {
+    "title": "Plage",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Plage-disabled": {
+    "title": "Plage (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 442,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Port": {
+    "title": "Port",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Promenade-des-Anglais": {
+    "title": "Promenade des Anglais",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Pub": {
+    "title": "Pub",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Exterieur/Pub-disabled": {
+    "title": "Pub (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 442,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC": {
+    "title": "ISEFAC",
+    "floor": 2
+  },
+  "FR/NCE/ISEFAC/BACHMAN-1-disabled": {
+    "title": "BACHMAN 1 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC/Bibliotheque": {
+    "title": "Bibliothèque",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC/BTS-1-disabled": {
+    "title": "BTS 1 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC/Chanel": {
+    "title": "Chanel",
+    "floor": 4,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC/Event-3-disabled": {
+    "title": "Event 3 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC/Nikaia": {
+    "title": "Nikaia",
+    "floor": 4,
+    "types": [
+      {
+        "seats": 14,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/NCE/ISEFAC/Salle-des-profs-disabled": {
+    "title": "Salle des profs (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/main-disabled": {
+    "title": "Batiment principal (disabled)",
+    "disabled": true
+  },
+  "FR/NCE/main-disabled/Cours-E-learning-Salle-libre": {
+    "title": "Salle libre",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 442,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/main-disabled/Entretien-Skype": {
+    "title": "Skype",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/main-disabled/Salle-Lab": {
+    "title": "Salle Lab",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/main-disabled/Td-en-visio,salle-libre": {
+    "title": "Td en visio, salle libre",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCE/main-disabled/[-Isefac-]-BACHMAN1": {
+    "title": "OLD - NOT USE",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 18,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled": {
+    "title": "(Old) St Francois (disabled)",
+    "floor": 0,
+    "disabled": true
+  },
+  "FR/NCE/Old-St-Francois-disabled/Accueil": {
+    "title": "Accueil",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Beastie": {
+    "title": "Beastie",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 5,
+        "type": "bureau"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Equipe-Pedago": {
+    "title": "Equipe Pédago",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Google": {
+    "title": "Google",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Kernel": {
+    "title": "Kernel",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Lab-AER": {
+    "title": "Lab AER",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Outside": {
+    "title": "Outside",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 42,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Shakespeare": {
+    "title": "Shakespeare",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 18,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 18,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Stallman": {
+    "title": "Stallman",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/Old-St-Francois-disabled/Tux": {
+    "title": "Tux",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 8,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCE/secondary-disabled": {
+    "title": "Batiment secondaire (disabled)",
+    "disabled": true
+  },
+  "FR/NCE/secondary-disabled/[-Isefac-]-BTS1": {
+    "title": "OLD - NOT USE",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/secondary-disabled/[-Isefac-]-Event-3": {
+    "title": "OLD - NOT USE2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCE/secondary-disabled/[-Isefac-]-Salle-des-profs": {
+    "title": "OLD - NOT USE3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY": {
+    "title": "Nancy",
+    "floor": 1
+  },
+  "FR/NCY/NCY": {
+    "title": "NCY",
+    "floor": 1
+  },
+  "FR/NCY/NCY/2eme-etage": {
+    "title": "2eme étage",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Bureau-Associations-disabled": {
+    "title": "Bureau Associations (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 0,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Bureau-coaching-disabled": {
+    "title": "Bureau coaching (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Bureau-DDR": {
+    "title": "Bureau DDR",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Bureau-DPR": {
+    "title": "Bureau DPR",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Bureau-DPRA": {
+    "title": "Bureau DPRA",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Cloud-City": {
+    "title": "Cloud City",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Coruscant": {
+    "title": "Coruscant",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 36,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 36,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Dagobah": {
+    "title": "Dagobah",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Ewok-Village": {
+    "title": "Ewok Village",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Exterieur-ecole": {
+    "title": "Exterieur ecole",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 0,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Hoth": {
+    "title": "Hoth",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/HUB-Co-Working": {
+    "title": "HUB Co Working",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/HUB-Conference": {
+    "title": "HUB Conférence",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/HUB-Reunion": {
+    "title": "HUB Réunion",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Lars-Farm": {
+    "title": "Lars Farm",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Mos-Espa": {
+    "title": "Mos Espa",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Naboo": {
+    "title": "Naboo",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 36,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Naboo-Dagobah": {
+    "title": "Naboo-Dagobah",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Otoh-Gunga": {
+    "title": "Otoh Gunga",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/S03-disabled": {
+    "title": "S03 (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Salle-AER": {
+    "title": "Salle AER",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 8,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Salle-de-reunion": {
+    "title": "Salle de réunion",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 12,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM-10-11-12-disabled": {
+    "title": "SM 10-11-12 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM10-11-disabled": {
+    "title": "SM10-11 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM10-disabled": {
+    "title": "SM10 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM11-disabled": {
+    "title": "SM11 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM12-disabled": {
+    "title": "SM12 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM40-disabled": {
+    "title": "SM40 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/SM42-disabled": {
+    "title": "SM42 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/NCY/NCY/Tatooine": {
+    "title": "Tatooine",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 150,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR": {
+    "title": "Paris"
+  },
+  "FR/PAR/1-&-2-disabled": {
+    "title": "1 & 2 (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/1-&-2-disabled/Lab-Cisco-Mid-Lab-Lab-SR-Lab-Pasteur-SM-02-disabled": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/Lab Pasteur/SM 02 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 377,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP": {
+    "title": "E-ARTSUP",
+    "floor": 42
+  },
+  "FR/PAR/E-ARTSUP/1-Carson": {
+    "title": "-1 - Carson",
+    "floor": -1,
+    "types": [
+      {
+        "seats": 28,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1-Carson-Glaser-Loewy-Lubalin": {
+    "title": "-1 - Carson-Glaser-Loewy-Lubalin",
+    "floor": -1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1-Glaser": {
+    "title": "-1 - Glaser",
+    "floor": -1,
+    "types": [
+      {
+        "seats": 46,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1-Loewy": {
+    "title": "-1 - Loewy",
+    "floor": -1,
+    "types": [
+      {
+        "seats": 34,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1-Lubalin": {
+    "title": "-1 - Lubalin",
+    "floor": -1,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1er-etage-Cassandre": {
+    "title": "1er étage - Cassandre",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1er-etage-Rand": {
+    "title": "1er étage - Rand",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/E-ARTSUP/1er-etage-Roddenchenko": {
+    "title": "1er étage - Roddenchenko",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/ivry": {
+    "title": "Ivry"
+  },
+  "FR/PAR/ivry/IVRY-SM-303": {
+    "title": "IVRY - SM 303",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/ivry/IVRY-SM-303-304-305": {
+    "title": "IVRY - SM 303-304-305",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 102,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/ivry/Ivry-SM-304": {
+    "title": "IVRY - SM 304",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/ivry/IVRY-SM-306": {
+    "title": "IVRY - SM 305",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/livemeeting-disabled": {
+    "title": "Livemeeting (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/livemeeting-disabled/Visioconference-EIP": {
+    "title": "Visioconférence EIP",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/main": {
+    "title": "Batiment principal"
+  },
+  "FR/PAR/main/Aquaboulevard": {
+    "title": "Aquaboulevard",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 600,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/PAR/main/Meme-salle-de-cours": {
+    "title": "Meme salle de cours",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 0,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/main/Meme-salle-machine": {
+    "title": "Meme salle machine",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 0,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/main/Meme-salle-rack": {
+    "title": "Meme salle rack",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 0,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/main/Mid-Lab-Lab-Pasteur": {
+    "title": "Mid-Lab/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 165,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/main/Salle-hors-campus": {
+    "title": "Salle hors campus",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 0,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/main/Visio": {
+    "title": "Visio",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/paritalie": {
+    "title": "Paritalie"
+  },
+  "FR/PAR/Paritalie-X": {
+    "title": "Paritalie X",
+    "floor": 6
+  },
+  "FR/PAR/Paritalie-X/Paritalie-RDC-entree-B-Lab-LSE": {
+    "title": "Paritalie RDC entrée B - Lab LSE",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 4,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/2eme-droite": {
+    "title": "2ème droite",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/2eme-fond": {
+    "title": "2ème fond",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 15,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/2eme-gauche": {
+    "title": "2ème gauche",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/Bureau-Emmanuel": {
+    "title": "Bureau Emmanuel",
+    "floor": 5,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/Hub-Paritalie": {
+    "title": "Hub Paritalie",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/LabEIP-2eme-etage": {
+    "title": "LabEIP (2ème étage)",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 15,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/paritalie/Spot-Bouygues-5eme-etage": {
+    "title": "Spot Bouygues 5ème étage",
+    "floor": 5,
+    "types": [
+      {
+        "seats": 15,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/pasteur": {
+    "title": "Pasteur"
+  },
+  "FR/PAR/pasteur-&-voltaire-disabled": {
+    "title": "Pasteur & Voltaire (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/pasteur-&-voltaire-disabled/Mid-Lab-Lab-SR-Lab-Pasteur-SM-14-15-02-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 14/15/02 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 405,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie": {
+    "title": "Pasteur-Paritalie",
+    "floor": 0
+  },
+  "FR/PAR/Pasteur-Paritalie/Amphi-Rouge": {
+    "title": "Amphi Rouge",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 85,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie/Bureau-2": {
+    "title": "Bureau #2",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie/Bureau-Sup-Internet": {
+    "title": "Bureau Sup'Internet",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie/Paritalie-2eme-etage-a-droite": {
+    "title": "Paritalie, 2ème étage, à droite",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie/Paritalie-2eme-etage-Sup-Internet-salle-du-fond": {
+    "title": "Paritalie, 2ème étage, Sup'Internet salle du fond",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie/RDC-Droite-et-Gauche": {
+    "title": "RDC - Droite et Gauche",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Pasteur-Paritalie/RDC-Fond": {
+    "title": "RDC - Fond",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Amphi-04": {
+    "title": "Amphi 04",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Amphi-2-+-amphi-P04": {
+    "title": "Amphi 2 + amphi P04",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 125,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Amphi-Masters": {
+    "title": "Amphi Masters",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Bocal": {
+    "title": "Bocal",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 6,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Bureau-1er-etage-pasteur": {
+    "title": "Bureau 1er étage pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Bureau-de-C.Dluzny": {
+    "title": "Bureau de C.Dluzny",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Bureau-des-admissions": {
+    "title": "Bureau des admissions",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Bureau-S.Sarr": {
+    "title": "Bureau S.Sarr",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Cours-Pasteur": {
+    "title": "Cours Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 550,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Departement-anglais": {
+    "title": "Département anglais",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/ip03": {
+    "title": "ip03",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 35,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/ip11": {
+    "title": "ip11",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 77,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/ip12A": {
+    "title": "ip12A",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/ip12B": {
+    "title": "ip12B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/KB-Salle-20-disabled": {
+    "title": "KB - Salle - 20 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/KB-Salle-40-disabled": {
+    "title": "KB - Salle - 40 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/KB-Salle-40-Non-Fixe-disabled": {
+    "title": "KB - Salle 40 - Non Fixe (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/KB-Salle-60-disabled": {
+    "title": "KB - Salle - 60 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/KB-Salle-80-disabled": {
+    "title": "KB - Salle - 80 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/KB-SRack-110-disabled": {
+    "title": "KB - SRack - 110 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 110,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Lab-Cisco-Lab-Pasteur": {
+    "title": "Lab Cisco/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Lab-Pasteur": {
+    "title": "Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 75,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Lab-Pasteur-recoin": {
+    "title": "Lab Pasteur (recoin)",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 28,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Lab-Pasteur-SM-20": {
+    "title": "Lab Pasteur/SM 20",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p03": {
+    "title": "p03",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 45,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p04": {
+    "title": "p04",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 43,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p05": {
+    "title": "p05",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 46,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/P05-P07": {
+    "title": "P05-P07",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p06": {
+    "title": "p06",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p07": {
+    "title": "p07",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p08-disabled": {
+    "title": "p08 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p09": {
+    "title": "p09",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 46,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/p10": {
+    "title": "p10",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Salle-de-reunion-IONIS-STM": {
+    "title": "Salle de réunion IONIS STM",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/SM-02-03-disabled": {
+    "title": "SM 02/03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 106,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/SM-02-disabled": {
+    "title": "SM 02 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 74,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 70,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/SM-03-disabled": {
+    "title": "SM 03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 36,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 36,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/pasteur/Under-Pasteur": {
+    "title": "Under Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 200,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Samsung": {
+    "title": "Samsung",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Samsung/Samsung-Campus": {
+    "title": "Samsung Campus",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/secondary-disabled": {
+    "title": "Batiment secondaire (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/secondary-disabled/Salle-6-disabled": {
+    "title": "Salle 6 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif": {
+    "title": "Villejuif"
+  },
+  "FR/PAR/villejuif-bungalows": {
+    "title": "Villejuif - Bungalows"
+  },
+  "FR/PAR/villejuif-bungalows/VA1": {
+    "title": "VA1",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VA2": {
+    "title": "VA2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VA3": {
+    "title": "VA3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 96,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VB1": {
+    "title": "VB1",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VB2": {
+    "title": "VB2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VB3": {
+    "title": "VB3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 96,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VD1": {
+    "title": "VD1",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VD2": {
+    "title": "VD2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif-bungalows/VD3": {
+    "title": "VD3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 96,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/lab-multispe-Villejuif": {
+    "title": "lab multispe Villejuif",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/Labo-Elec-Villejuif": {
+    "title": "Labo Elec Villejuif",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V-Amphi-100": {
+    "title": "V - Amphi - 100",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V-Amphi-150": {
+    "title": "V - Amphi - 150",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V-Salle-20": {
+    "title": "V - Salle - 20",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V-Salle-40": {
+    "title": "V - Salle - 40",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V-Salle-80": {
+    "title": "V - Salle - 80",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V001": {
+    "title": "V001",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V101": {
+    "title": "V101",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V102": {
+    "title": "V102",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V103-bibli": {
+    "title": "V103 (bibli)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V104-profs": {
+    "title": "V104 (profs)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V105": {
+    "title": "V105",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V105-TD": {
+    "title": "V105 - TD",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V106": {
+    "title": "V106",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V107": {
+    "title": "V107",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V108": {
+    "title": "V108",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V109": {
+    "title": "V109",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V201": {
+    "title": "V201",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V202": {
+    "title": "V202",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V203": {
+    "title": "V203",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V204": {
+    "title": "V204",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V204A": {
+    "title": "V204A",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V205": {
+    "title": "V205",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V206": {
+    "title": "V206",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V207": {
+    "title": "V207",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V208": {
+    "title": "V208",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V301": {
+    "title": "V301",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V302-labo": {
+    "title": "V302 (labo)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V303-labo": {
+    "title": "V303 (labo)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V304-labo": {
+    "title": "V304 (labo)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V305-labo": {
+    "title": "V305 (labo)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V306-labo-MSPE": {
+    "title": "V306 (labo MSPE)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V307-bur-labo": {
+    "title": "V307 (bur/labo)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V308-bur-labo": {
+    "title": "V308 (bur/labo)",
+    "floor": 42
+  },
+  "FR/PAR/villejuif/V309": {
+    "title": "V309",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V310": {
+    "title": "V310",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/V311": {
+    "title": "V311",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/villejuif/Villejuif": {
+    "title": "Villejuif",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 1000,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Visioconference": {
+    "title": "Visioconférence",
+    "floor": 0
+  },
+  "FR/PAR/Visioconference/Visio": {
+    "title": "Visio",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 20,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire": {
+    "title": "Voltaire",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 12,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/voltaire&pasteur-disabled": {
+    "title": "Voltaire&Pasteur (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/voltaire&pasteur-disabled/Lab-Cisco-Lab-SR-Lab-Pasteur-SM-02-03-disabled": {
+    "title": "Lab Cisco/Lab SR/Lab Pasteur/SM 02/03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 330,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-&-pasteur-disabled": {
+    "title": "Voltaire & Pasteur (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/voltaire-&-pasteur-disabled/Lab-Cisco-Mid-Lab-Lab-SR-SM-02-03-2B-disabled": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/SM 02/03/2B (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 410,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-&-pasteur-disabled/Lab-Pasteur-SM-2B-disabled": {
+    "title": "Lab Pasteur/SM 2B (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 140,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-&-pasteur-disabled/Mid-Lab-Lab-SR-Lab-Pasteur-SM-14-15-2B-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 14/15/2B (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 400,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-+-lm-disabled": {
+    "title": "Voltaire + LM (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/voltaire-+-lm-disabled/Lab-EIP-+-Visioconference": {
+    "title": "Lab EIP + Visioconférence",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 15,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur": {
+    "title": "Voltaire et Pasteur"
+  },
+  "FR/PAR/voltaire-et-pasteur/Amphi-2-+-ip12": {
+    "title": "Amphi 2 + ip12",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 200,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur/Lab-Cisco-Mid-Lab-Lab-SR-Lab-Pasteur-SM-02-2B-disabled": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/Lab Pasteur/SM 02/2B (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 450,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur/Mid-Lab-Lab-Pasteur-SM-20-21": {
+    "title": "Mid-Lab/Lab Pasteur/SM 20/21",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 260,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur/Mid-Lab-Lab-Pasteur-SM-24": {
+    "title": "Mid-Lab/Lab Pasteur/SM 24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 260,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur/Mid-Lab-Lab-SR-Lab-Pasteur-SM-14": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 325,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur/Mid-Lab-Lab-SR-Lab-Pasteur-SM-14-15-02-03-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 14/15/02/03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 440,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-et-pasteur/Mid-Lab-Lab-SR-Lab-Pasteur-SM-24": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 330,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled": {
+    "title": "Voltaire/Pasteur (disabled)",
+    "disabled": true
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-Amphi-100-disabled": {
+    "title": "KB - Amphi - 100 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-Amphi-120-disabled": {
+    "title": "KB - Amphi - 120 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 120,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-Amphi-140-disabled": {
+    "title": "KB - Amphi - 140 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 140,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-Amphi-160-disabled": {
+    "title": "KB - Amphi - 160 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-Amphi-180-disabled": {
+    "title": "KB - Amphi - 180 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 180,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-SM-70-disabled": {
+    "title": "KB - SM - 70 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-SRack-50-disabled": {
+    "title": "KB - SRack - 50 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/voltaire-pasteur-disabled/KB-SRack-70-disabled": {
+    "title": "KB - SRack - 70 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/ADM-EPITECH": {
+    "title": "ADM EPITECH",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-01": {
+    "title": "Amphi 01",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 145,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-01-+-amphi-03": {
+    "title": "Amphi 01 + amphi 03",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 255,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-01-TD-disabled": {
+    "title": "Amphi 01 TD (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-02": {
+    "title": "Amphi 02",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 115,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-02-+-03": {
+    "title": "Amphi 02 + 03",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 220,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-02A-cote-Pasteur": {
+    "title": "Amphi 02A (côté Pasteur)",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 42,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-02B-cote-Voltaire": {
+    "title": "Amphi 02B (côté Voltaire)",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-03": {
+    "title": "Amphi 03",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-1-+-Amphi-2": {
+    "title": "Amphi 1 + Amphi 2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 265,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/amphi-2-test-reseaux-disabled": {
+    "title": "amphi 2 test reseaux (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 75,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Amphi-3-+-amphi-P04": {
+    "title": "Amphi 3 + amphi P04",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 270,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-de-C.Sebastien": {
+    "title": "Bureau de C.Sébastien",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-de-J.Moise": {
+    "title": "Bureau de J.Moise",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-DPRa": {
+    "title": "Bureau DPRa",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 2,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-G.Vimeney-disabled": {
+    "title": "Bureau G.Vimeney (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-L.-Abi-Assi": {
+    "title": "Bureau L. Abi Assi",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-Nicolas-disabled": {
+    "title": "Bureau Nicolas (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Bureau-S.Karas": {
+    "title": "Bureau C.Dluzny",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/GameDevLab": {
+    "title": "GameDevLab",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/KB-SM-20-disabled": {
+    "title": "KB - SM - 20 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/KB-SM-60-disabled": {
+    "title": "KB - SM - 60 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/KB-SM-90-disabled": {
+    "title": "KB - SM - 90 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 90,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/KB-SRack-90-disabled": {
+    "title": "KB - SRack - 90 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 90,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco": {
+    "title": "Lab Cisco",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 84,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Lab-SR": {
+    "title": "Lab Cisco/Lab SR",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Lab-SR-Lab-Pasteur": {
+    "title": "Lab Cisco/Lab SR/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 250,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab": {
+    "title": "Lab Cisco/Mid-Lab",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-Pasteur": {
+    "title": "Lab Cisco/Mid-Lab/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 242,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-Pasteur-SM-20-21-22-2B": {
+    "title": "Lab Cisco/Mid-Lab/Lab Pasteur/SM 20/21/22/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 590,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-Pasteur-SM-21-22": {
+    "title": "Lab Cisco/Mid-Lab/Lab Pasteur/SM 21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 460,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 200,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR-Lab-Pasteur": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 357,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR-Lab-Pasteur-SM-14": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/Lab Pasteur/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 380,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR-SM-14": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 325,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR-SM-14-15-02-03-disabled": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/SM 14/15/02/03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 447,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR-SM-14-15-2B": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/SM 14/15/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 380,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-Lab-SR-SM-24-25": {
+    "title": "Lab Cisco/Mid-Lab/Lab SR/SM 24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 330,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-SM-14-21-22": {
+    "title": "Lab Cisco/Mid-Lab/SM 14/21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 470,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-SM-20-21-22": {
+    "title": "Lab Cisco/Mid-Lab/SM 20/21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 480,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-Mid-Lab-SM-23-24-25": {
+    "title": "Lab Cisco/Mid-Lab/SM 23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 460,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-SM-14": {
+    "title": "Lab Cisco/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 98,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-SM-21-22-23": {
+    "title": "Lab Cisco/SM 21/22/23",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-SM-21-22-23-24": {
+    "title": "Lab Cisco/SM 21/22/23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 460,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Cisco-SM-24": {
+    "title": "Lab Cisco/SM 24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Console": {
+    "title": "Lab Console",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 37,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-EIP": {
+    "title": "Lab EIP",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-EIP-Visio": {
+    "title": "Lab EIP / Visio",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 5,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Pasteur-Mid-Lab": {
+    "title": "Lab Pasteur/Mid-Lab",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Pasteur-Mid-Lab-SM-22": {
+    "title": "Lab Pasteur/Mid-Lab/SM 22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 180,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Pasteur-SM-02-SM-03-disabled": {
+    "title": "Lab Pasteur/SM 02/SM 03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 185,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Pasteur-SM-14-22": {
+    "title": "Lab Pasteur/SM 14/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 280,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Pasteur-SM-21": {
+    "title": "Lab Pasteur/SM 21",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Pasteur-SM-21-22-23": {
+    "title": "Lab Pasteur/SM 21/22/23",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Reseau": {
+    "title": "Lab Réseau",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-Reseau-ex-Astek": {
+    "title": "Lab Réseau (ex Astek)",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 2,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR": {
+    "title": "Lab SR",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 82,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-14": {
+    "title": "Lab SR/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 140,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-14-23-24-25": {
+    "title": "Lab SR/SM 14/23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 450,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-21-22": {
+    "title": "Lab SR/SM 21/22",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 328,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-21-22-23": {
+    "title": "Lab SR/SM 21/22/23",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-22": {
+    "title": "Lab SR/SM 22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-23-24-25": {
+    "title": "Lab SR/SM 23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 330,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-24": {
+    "title": "Lab SR/SM 24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-25": {
+    "title": "Lab SR/SM 25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Lab-SR-SM-2B": {
+    "title": "Lab SR/SM 2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 140,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/LabTech-disabled": {
+    "title": "LabTech (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab": {
+    "title": "Mid-Lab",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 90,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR": {
+    "title": "Mid-Lab/Lab SR",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-Lab-Pasteur": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 235,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-Lab-Pasteur-SM-02-03-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 02/03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 345,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-Lab-Pasteur-SM-02-14-15-20-21-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 02/14/15/20/21 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 530,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-Lab-Pasteur-SM-02-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 02 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 305,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-Lab-Pasteur-SM-14-15-03-disabled": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 14/15/03 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 365,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-Lab-Pasteur-SM-20-21-22-2B": {
+    "title": "Mid-Lab/Lab SR/Lab Pasteur/SM 20/21/22/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 590,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14": {
+    "title": "Mid-Lab/Lab SR/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 240,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-15": {
+    "title": "Mid-Lab/Lab SR/SM 14/15",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 255,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-15-02-03-2B-disabled": {
+    "title": "Mid-Lab/Lab SR/SM 14/15/02/03/2B (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 420,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-15-20": {
+    "title": "Mid-Lab/Lab SR/SM 14/15/20",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 280,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-15-20-21-22-2B": {
+    "title": "Mid-Lab/Lab SR/SM 14/15/20/21/22/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 420,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-15-2B": {
+    "title": "Mid-Lab/Lab SR/SM 14/15/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 320,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-22-23": {
+    "title": "Mid-Lab/Lab SR/SM 14/22/23",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 420,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-14-23-24": {
+    "title": "Mid-Lab/Lab SR/SM 14/23/24",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 470,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-23-24": {
+    "title": "Mid-Lab/Lab SR/SM 23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 400,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-Lab-SR-SM-23-24-25": {
+    "title": "Mid-Lab/Lab SR/SM 23/24/25",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 460,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-14": {
+    "title": "Mid-Lab/SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-14-15-2B-Lab-Pasteur": {
+    "title": "Mid-Lab/SM 14/15/2B/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 369,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-14-15-Lab-Pasteur": {
+    "title": "Mid-Lab/SM 14/15/Lab Pasteur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 260,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-20": {
+    "title": "Mid-Lab/SM 20",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-20-21-22": {
+    "title": "Mid-Lab/SM 20/21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 400,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-21-22": {
+    "title": "Mid-Lab/SM 21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 270,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-23-24": {
+    "title": "Mid-Lab/SM 23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 320,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-23-24-25": {
+    "title": "Mid-Lab/SM 23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 400,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-24": {
+    "title": "Mid-Lab/SM 24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 180,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-24-25": {
+    "title": "Mid-Lab/SM 24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 190,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Mid-Lab-SM-25": {
+    "title": "Mid-Lab/SM 25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Plateforme-pedagogique": {
+    "title": "Plateforme pedagogique",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 78,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 78,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Salle-Azur": {
+    "title": "Salle Azur",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Salle-de-suivis-disabled": {
+    "title": "Salle de suivis (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14": {
+    "title": "SM 14",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 82,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 73,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14-20-21-22": {
+    "title": "SM 14/20/21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 370,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14-23-24-25": {
+    "title": "SM 14/23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14-24": {
+    "title": "SM 14/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14-24-25": {
+    "title": "SM 14/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 250,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14-25": {
+    "title": "SM 14/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 95,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-14-2B": {
+    "title": "SM 14/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 140,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-15": {
+    "title": "SM 15",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20": {
+    "title": "SM 20",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 56,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21": {
+    "title": "SM 20/21",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 180,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22": {
+    "title": "SM 20/21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 304,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23": {
+    "title": "SM 20/21/22/23",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 428,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-24": {
+    "title": "SM 20/21/22/23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 552,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-24-25": {
+    "title": "SM 20/21/22/23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 650,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-24-25-2B": {
+    "title": "SM 20/21/22/23/24/25/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 480,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-24-25-2B-Amphi-3": {
+    "title": "SM 20/21/22/23/24/25/2B/Amphi 3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 592,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-25": {
+    "title": "SM 20/21/22/23/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 484,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-2B": {
+    "title": "SM 20/21/22/23/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 392,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-23-Amphi-3": {
+    "title": "SM 20/21/22/23/Amphi 3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 410,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-25-2B": {
+    "title": "SM 20/21/22/25/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 310,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-22-2B": {
+    "title": "SM 20/21/22/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 290,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-20-21-24-25": {
+    "title": "SM 20/21/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21": {
+    "title": "SM 21",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 124,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 124,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22": {
+    "title": "SM 21/22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 248,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22-23": {
+    "title": "SM 21/22/23",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 372,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22-23-03-disabled": {
+    "title": "SM 21/22/23/03 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22-23-24": {
+    "title": "SM 21/22/23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 480,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22-23-24-03-disabled": {
+    "title": "SM 21/22/23/24/03 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 410,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22-23-2B": {
+    "title": "SM 21/22/23/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-22-24": {
+    "title": "SM 21/22/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 286,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-23-24-25": {
+    "title": "SM 21/23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 316,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-24-25": {
+    "title": "SM 21/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 222,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-21-2B": {
+    "title": "SM 21/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-22": {
+    "title": "SM 22",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 94,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-22-23": {
+    "title": "SM 22/23",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 188,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-22-23-24": {
+    "title": "SM 22/23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-22-23-24-25": {
+    "title": "SM 22/23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 410,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-22-23-24-25-2B": {
+    "title": "SM 22/23/24/25/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 390,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-22-2B": {
+    "title": "SM 22/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-23": {
+    "title": "SM 23",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 94,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-23-24": {
+    "title": "SM 23/24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 240,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-23-24-25": {
+    "title": "SM 23/24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 290,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-23-24-25-Amphi-2": {
+    "title": "SM 23/24/25/Amphi 2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 360,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-24": {
+    "title": "SM 24",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 96,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-24-25": {
+    "title": "SM 24/25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 180,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-24-2B": {
+    "title": "SM 24/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 170,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-25": {
+    "title": "SM 25",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 56,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-25-2B": {
+    "title": "SM 25/2B",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 108,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/SM-2B-50-places-disabled": {
+    "title": "SM 2B (50 places) (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/PAR/Voltaire/Sout-01-entre-Lab-SR-et-MidLab": {
+    "title": "Sout 01 (entre Lab SR et MidLab)",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 5,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN": {
+    "title": "Rennes",
+    "floor": 0
+  },
+  "FR/REN/Anciens-locaux": {
+    "title": "Anciens locaux",
+    "floor": 0
+  },
+  "FR/REN/Anciens-locaux/Amphi": {
+    "title": "Amphi",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/BDE": {
+    "title": "BDE",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Ex-Bureau-Direction-du-developpement": {
+    "title": "Ex-Bureau Direction du développement",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 2,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Ex-Bureau-Direction-Pedagogique": {
+    "title": "Ex-Bureau Direction Pédagogique",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Lab-AER-disabled": {
+    "title": "Lab AER (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salle-1": {
+    "title": "Salle 1",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salle-2": {
+    "title": "Salle 2",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salle-3": {
+    "title": "Salle 3",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salle-4": {
+    "title": "Salle 4",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 48,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salle-5": {
+    "title": "Salle 5",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 70,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salles1&2": {
+    "title": "Salles1&2",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Salles3&4": {
+    "title": "Salles3&4",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/Sport-Ext.-disabled": {
+    "title": "Sport Ext. (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Anciens-locaux/SUSIE-disabled": {
+    "title": "SUSIE (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 14,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Batiment-3-disabled": {
+    "title": "Batiment 3 (disabled)",
+    "floor": 2,
+    "disabled": true
+  },
+  "FR/REN/Batiment-3-disabled/Salle-7": {
+    "title": "Salle 7",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 50,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Batiment-3-disabled/Salle-8": {
+    "title": "Salle 8",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0
+  },
+  "FR/REN/Exterieur/Cantine-numerique": {
+    "title": "Cantine numérique",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 20,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Exterieur/Dalle": {
+    "title": "Dalle",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 150,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Exterieur/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1000,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Exterieur/Sport": {
+    "title": "Sport",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 100,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Exterieur/Stade-Rennais": {
+    "title": "Stade Rennais",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 1000,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux": {
+    "title": "Nouveaux locaux",
+    "floor": 0
+  },
+  "FR/REN/Nouveaux-locaux/Bureau-Accueil": {
+    "title": "Bureau Accueil",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Bureau-Direction-du-Developpement": {
+    "title": "Bureau Direction du Développement",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Bureau-Direction-Pedagogique": {
+    "title": "Bureau Direction Pédagogique",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Cantine-numerique-disabled": {
+    "title": "Cantine numérique (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Comics": {
+    "title": "Comics",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Comics-&-Harry-Potter": {
+    "title": "Comics & Harry Potter",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Espace-accueil": {
+    "title": "Espace accueil",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 20,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Harry-Potter": {
+    "title": "Harry Potter",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Hub": {
+    "title": "Hub",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Reunion": {
+    "title": "Réunion",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 20,
+        "type": "bureau"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Seigneur-des-Anneaux": {
+    "title": "Seigneur des Anneaux",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Sports-disabled": {
+    "title": "Sports (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Star-Wars": {
+    "title": "Star Wars",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Video-Games": {
+    "title": "Video Games",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 30,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/Nouveaux-locaux/Video-Games-&-Star-Wars": {
+    "title": "Video Games & Star Wars",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/REN/secondary-disabled": {
+    "title": "Batiment secondaire (disabled)",
+    "disabled": true
+  },
+  "FR/REN/secondary-disabled/BDE": {
+    "title": "BDE",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/REN/secondary-disabled/Salle-6": {
+    "title": "Salle 6",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG": {
+    "title": "Strasbourg"
+  },
+  "FR/STG/dome": {
+    "title": "Dôme"
+  },
+  "FR/STG/dome-d201-disabled": {
+    "title": "Dôme - D201 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d201-disabled/D201-disabled": {
+    "title": "D201 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/dome-d203-disabled": {
+    "title": "Dôme - D203 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d203-disabled/D203-disabled": {
+    "title": "D203 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 55,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d204-disabled": {
+    "title": "Dôme - D204 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d204-disabled/D204-disabled": {
+    "title": "D204 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d300-disabled": {
+    "title": "Dôme - D300 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d300-disabled/D300-disabled": {
+    "title": "D300 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d301-disabled": {
+    "title": "Dôme - D301 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d301-disabled/D301-disabled": {
+    "title": "D301 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d302-disabled": {
+    "title": "Dôme - D302 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d302-disabled/D302-disabled": {
+    "title": "D302 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d303-disabled": {
+    "title": "Dôme - D303 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d303-disabled/D303-disabled": {
+    "title": "D303 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 34,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d304-disabled": {
+    "title": "Dôme - D304 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d304-disabled/D304-disabled": {
+    "title": "D304 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d305-disabled": {
+    "title": "Dôme - D305 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d305-disabled/D305-disabled": {
+    "title": "D305 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 38,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d306-disabled": {
+    "title": "Dôme - D306 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d306-disabled/D306-disabled": {
+    "title": "D306 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d307-disabled": {
+    "title": "Dôme - D307 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d307-disabled/D307-disabled": {
+    "title": "D307 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome-d308-disabled": {
+    "title": "Dôme - D308 (disabled)",
+    "disabled": true
+  },
+  "FR/STG/dome-d308-disabled/D308-disabled": {
+    "title": "D308 (disabled)",
+    "floor": 42,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/Bureau-AER": {
+    "title": "Bureau AER",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 6,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 6,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/dome/D202-disabled": {
+    "title": "D202 (disabled)",
+    "floor": 2,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 36,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D203": {
+    "title": "D203",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 55,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D204": {
+    "title": "D204",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D300": {
+    "title": "D300",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D301": {
+    "title": "D301",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D302": {
+    "title": "D302",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D303": {
+    "title": "D303",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 34,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D304": {
+    "title": "D304",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D305": {
+    "title": "D305",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 38,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D306": {
+    "title": "D306",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D307": {
+    "title": "D307",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/D308": {
+    "title": "D308",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/dome/Piscine-D203-&-D204": {
+    "title": "Piscine D203 & D204",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/dome/Salle-Kenny-D202": {
+    "title": "Salle Kenny (D202)",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 36,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/dome/Salle-Stan-D201": {
+    "title": "Salle Stan (D201)",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0
+  },
+  "FR/STG/Exterieur/Exterieur": {
+    "title": "Extérieur",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 200,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/STG/Livio": {
+    "title": "Livio",
+    "floor": 2
+  },
+  "FR/STG/Livio/Bureau-de-l-administration-disabled": {
+    "title": "Bureau de l'administration (disabled)",
+    "floor": 1,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/STG/Livio/Bureau-de-la-direction-du-developpement": {
+    "title": "Bureau de la direction du développement",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/STG/Livio/Bureau-de-la-direction-pedagogique": {
+    "title": "Bureau de la direction pédagogique",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/STG/Livio/HUB-Innovation": {
+    "title": "HUB Innovation",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/Livio/L200": {
+    "title": "L200",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 31,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/Livio/L200A": {
+    "title": "L200A",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/STG/Livio/L201": {
+    "title": "L201",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/Livio/L202": {
+    "title": "L202",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 28,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/STG/Livio/Piscine-L100-&-L103": {
+    "title": "Piscine L100 & L103",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/Livio/Salle-Cartman-L100": {
+    "title": "Salle Cartman (L100)",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 48,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/STG/Livio/Salle-IONIS": {
+    "title": "Salle IONIS",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 10,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 10,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/STG/Livio/Salle-Kyle-L103": {
+    "title": "Salle Kyle (L103)",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS": {
+    "title": "Toulouse"
+  },
+  "FR/TLS/bayard-disabled": {
+    "title": "BAYARD (disabled)",
+    "disabled": true
+  },
+  "FR/TLS/bayard-disabled/Boobies-disabled": {
+    "title": "Boobies (disabled)",
+    "floor": 0,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 256,
+        "type": "bureau"
+      },
+      {
+        "seats": 26,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/Bureau-B.-Gimet": {
+    "title": "Bureau B. Gimet",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/Bureau-Coaching": {
+    "title": "Bureau Coaching",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/Bureau-G.Vinson": {
+    "title": "Bureau G.Vinson",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/Bureau-P.-Coste": {
+    "title": "Bureau P. Coste",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/Bureau-Reunion": {
+    "title": "Bureau Reunion",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/Bureau-S.-Bressanges": {
+    "title": "Bureau S. Bressanges",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD": {
+    "title": "BYD",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 250,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-AER": {
+    "title": "BYD - AER",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-1": {
+    "title": "BYD - SALLE 1",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 56,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-10": {
+    "title": "BYD - SALLE 10",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-2": {
+    "title": "BYD - SALLE 2",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-3": {
+    "title": "BYD - SALLE 3",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-4": {
+    "title": "BYD - SALLE 4",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-5": {
+    "title": "BYD - SALLE 5",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-6": {
+    "title": "BYD - SALLE 6",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 50,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 50,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-7": {
+    "title": "BYD - SALLE 7",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-8": {
+    "title": "BYD - SALLE 8",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLE-9": {
+    "title": "BYD - SALLE 9",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 15,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLES-4-&-5": {
+    "title": "BYD - SALLES 4 & 5",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 120,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/bayard-disabled/BYD-SALLES-6-&-7": {
+    "title": "BYD - SALLES 6 & 7",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 100,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/main": {
+    "title": "Batiment principal"
+  },
+  "FR/TLS/main/COM": {
+    "title": "COM",
+    "floor": 42,
+    "types": [
+      {
+        "seats": 200,
+        "type": "exterieur"
+      }
+    ]
+  },
+  "FR/TLS/main/Pas-de-salle": {
+    "title": "Pas de salle",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 250,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette": {
+    "title": "Marquette",
+    "floor": 6
+  },
+  "FR/TLS/Marquette/601": {
+    "title": "601",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 100,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/602": {
+    "title": "602",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/603": {
+    "title": "603",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/604": {
+    "title": "604",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 24,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/605": {
+    "title": "605",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/606": {
+    "title": "606",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 25,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/607": {
+    "title": "607",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/614-disabled": {
+    "title": "614 (disabled)",
+    "floor": 6,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/615-disabled": {
+    "title": "615 (disabled)",
+    "floor": 6,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 20,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/701": {
+    "title": "701",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 70,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 40,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/702": {
+    "title": "702",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 24,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/703": {
+    "title": "703",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 25,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/704": {
+    "title": "704",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 15,
+        "type": "salle_machine"
+      },
+      {
+        "seats": 20,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/705": {
+    "title": "705",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 50,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/711-disabled": {
+    "title": "711 (disabled)",
+    "floor": 7,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle_de_cours"
+      },
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Accueil-disabled": {
+    "title": "Accueil (disabled)",
+    "floor": 6,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 3,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Bureau-Anglais": {
+    "title": "Bureau Anglais",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Bureau-Coaching-1": {
+    "title": "Bureau Coaching #1",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Bureau-Coaching-2": {
+    "title": "Bureau Coaching #2",
+    "floor": 7,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Bureau-Pedago": {
+    "title": "Bureau Pédago",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Developpement-disabled": {
+    "title": "Développement (disabled)",
+    "floor": 6,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 2,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Hub": {
+    "title": "Hub",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Openspace-Pedago": {
+    "title": "Openspace Pédago",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 8,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Piscine": {
+    "title": "Piscine",
+    "floor": 6,
+    "types": [
+      {
+        "seats": 150,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Marquette/Salle-de-reunion-3-disabled": {
+    "title": "Salle de réunion 3 (disabled)",
+    "floor": 6,
+    "disabled": true,
+    "types": [
+      {
+        "seats": 6,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled": {
+    "title": "Pauilhac (disabled)",
+    "floor": 0,
+    "disabled": true
+  },
+  "FR/TLS/Pauilhac-disabled/Amphi": {
+    "title": "Amphi",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 160,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Bureau-Pedago": {
+    "title": "Bureau Pedago",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 5,
+        "type": "bureau"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/CDI": {
+    "title": "CDI",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Concorde-1": {
+    "title": "Concorde 1",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 32,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Concorde-1-2-3": {
+    "title": "Concorde 1-2-3",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 120,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Concorde-2": {
+    "title": "Concorde 2",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 28,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Concorde-3": {
+    "title": "Concorde 3",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Docker-Job-2-2": {
+    "title": "Docker (Job 2-2)",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Job": {
+    "title": "Job",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 60,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Melty-Job-2-1": {
+    "title": "Melty (Job 2-1)",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P11": {
+    "title": "P11",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P11-P12": {
+    "title": "P11-P12",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P11-P12-P13": {
+    "title": "P11-P12-P13",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 120,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P12": {
+    "title": "P12",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 44,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P12-P13": {
+    "title": "P12-P13",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 80,
+        "type": "salle-de-cours-td"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P13": {
+    "title": "P13",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P14": {
+    "title": "P14",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 30,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P16": {
+    "title": "P16",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 40,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P17": {
+    "title": "P17",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 18,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P17B": {
+    "title": "P17B",
+    "floor": 1,
+    "types": [
+      {
+        "seats": 4,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P21": {
+    "title": "P21",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 36,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P22": {
+    "title": "P22",
+    "floor": 2,
+    "types": [
+      {
+        "seats": 18,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/P31": {
+    "title": "P31",
+    "floor": 3,
+    "types": [
+      {
+        "seats": 38,
+        "type": "salle_de_cours"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Prestashop-Job-1-2": {
+    "title": "Prestashop (Job 1-2)",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  },
+  "FR/TLS/Pauilhac-disabled/Yatedo-Job-1-1": {
+    "title": "Yatedo (Job 1-1)",
+    "floor": 0,
+    "types": [
+      {
+        "seats": 16,
+        "type": "salle_machine"
+      }
+    ]
+  }
+}
