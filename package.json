@@ -44,6 +44,7 @@
     "icalendar": "^0.7.1",
     "jade": "*",
     "moment": "^2.10.6",
+    "moment-timezone": "^0.4.1",
     "mongoose": "^4.2.3",
     "rarity": "^2.1.1",
     "request": "^2.65.0",
