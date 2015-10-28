@@ -3,9 +3,18 @@ extend base
 block layout
   .container
     .row
-      h1 Hello
-      a.btn.btn-default(href='/logout') Logout
+      h1 Your events
+      .btn-group
+        a.btn.btn-success(href='/events/update') Update events
+        a.btn.btn-info(href='/events?format=ical&token=#{user.token}') ICAL Link
+        a.btn.btn-default(href='/logout') Logout
       table.table.table-striped
+        thead
+          td Title
+          td Room Code
+          td Module Code
+          td Start
+          td End
         for event in events
           tr
             td=event.title

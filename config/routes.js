@@ -13,5 +13,6 @@ module.exports = function(app) {
   app.post('/login', routes.login.post);
   app.get('/logout', middlewares.isAuth, routes.logout.get);
 
-  app.get('/events', middlewares.isAuth, routes.events.get);
+  app.get('/events', middlewares.tokenAuth, middlewares.isAuth, routes.events.index.get);
+  app.get('/events/update', middlewares.tokenAuth, middlewares.isAuth, routes.events.update.get);
 };
