@@ -21,7 +21,7 @@ app.use(noWWW);
 
 // view engine setup
 app.set('views', path.join(__dirname, 'lib/views'));
-app.set('view engine', 'jade');
+app.set('view engine', 'pug');
 app.locals.moment = require('moment');
 
 app.use(favicon('public/favicon.ico'));
