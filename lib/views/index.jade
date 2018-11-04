@@ -18,7 +18,7 @@ block layout
         for event in events
           tr
             td=event.title
-            td=event.location.address
+            td=#{event.location ? event.location.address : event.intraLocationCode}
             td=event.intraModuleCode
             td=moment(event.start).format('lll')
             td=moment(event.end).format('lll')
